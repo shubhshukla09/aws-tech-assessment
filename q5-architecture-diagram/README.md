@@ -2,6 +2,10 @@
 
 This directory contains the architecture diagram for the AWS infrastructure created in this assessment.
 
+## Architecture Diagram
+
+![AWS Architecture Diagram](Shubh_Shukla_Architecture_Diagram.png)
+
 ## Diagram Overview
 
 The architecture represents a highly available web application with the following components:
